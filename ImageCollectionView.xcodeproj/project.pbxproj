@@ -14,6 +14,7 @@
 		E1D3818925D59C0800C8E716 /* ImageCollectionView.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = E1D3818725D59C0800C8E716 /* ImageCollectionView.xcdatamodeld */; };
 		E1D3818B25D59C0A00C8E716 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E1D3818A25D59C0A00C8E716 /* Assets.xcassets */; };
 		E1D3818E25D59C0A00C8E716 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E1D3818C25D59C0A00C8E716 /* LaunchScreen.storyboard */; };
+		E1D3819725D59DD000C8E716 /* MyCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1D3819625D59DD000C8E716 /* MyCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		E1D3818A25D59C0A00C8E716 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E1D3818D25D59C0A00C8E716 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E1D3818F25D59C0A00C8E716 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E1D3819625D59DD000C8E716 /* MyCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				E1D3818025D59C0800C8E716 /* SceneDelegate.swift */,
 				E1D3818225D59C0800C8E716 /* ViewController.swift */,
 				E1D3818425D59C0800C8E716 /* Main.storyboard */,
+				E1D3819625D59DD000C8E716 /* MyCollectionViewCell.swift */,
 				E1D3818A25D59C0A00C8E716 /* Assets.xcassets */,
 				E1D3818C25D59C0A00C8E716 /* LaunchScreen.storyboard */,
 				E1D3818F25D59C0A00C8E716 /* Info.plist */,
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E1D3818925D59C0800C8E716 /* ImageCollectionView.xcdatamodeld in Sources */,
+				E1D3819725D59DD000C8E716 /* MyCollectionViewCell.swift in Sources */,
 				E1D3818325D59C0800C8E716 /* ViewController.swift in Sources */,
 				E1D3817F25D59C0800C8E716 /* AppDelegate.swift in Sources */,
 				E1D3818125D59C0800C8E716 /* SceneDelegate.swift in Sources */,
